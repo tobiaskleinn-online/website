@@ -47,7 +47,11 @@ function getUpdatedImageList(targetGalleryObj: GalleryData, sourceGalleryObj: Ga
 			existingImage.exif = image.exif;
 		}
 	});
-	return Array.from(imagesMap.values());
+	return Array.from(imagesMap.values()).sort((a, b) => {
+		const dateA = a.exif?.captureDate ? new Date(a.exif.captureDate).getTime() : 0;
+		const dateB = b.exif?.captureDate ? new Date(b.exif.captureDate).getTime() : 0;
+		return dateB - dateA; // oldest first, change to dateB - dateA for newest first
+	});
 }
 
 function getUpdatedCollectionList(targetGalleryObj: GalleryData, sourceGalleryObj: GalleryData) {
