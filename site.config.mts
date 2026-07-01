@@ -11,7 +11,7 @@ export default {
 	title: 'TK',
 	favicon: 'favicon.ico',
 	owner: 'Tobias Klein',
-	profileImage: 'profile.webp',
+	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
 			name: 'GitHub',
