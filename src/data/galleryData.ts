@@ -81,7 +81,6 @@ export interface Image {
 	description: string;
 	collections: string[];
 	exif?: ImageExif;
-
 }
 
 /**

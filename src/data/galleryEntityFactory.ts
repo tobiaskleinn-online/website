@@ -9,12 +9,16 @@ export const createGalleryImage = async (
 	const relativePath = path.relative(galleryDir, file);
 	const exifData = await exifr.parse(file, {
 		iptc: true,
-		xmp: true
+		xmp: true,
 	});
 	const image = {
 		path: relativePath,
 		meta: {
-			title: exifData?.Title || exifData?.ObjectName || exifData?.title || toReadableCaption(path.basename(relativePath, path.extname(relativePath))),
+			title:
+				exifData?.Title ||
+				exifData?.ObjectName ||
+				exifData?.title ||
+				toReadableCaption(path.basename(relativePath, path.extname(relativePath))),
 			description: '',
 			collections: collectionIdForImage(relativePath),
 		},

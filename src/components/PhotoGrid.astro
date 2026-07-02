@@ -9,7 +9,6 @@ interface Props {
 }
 
 const { images } = Astro.props;
-
 ---
 
 <section id="photo-grid" class="relative w-full mx-auto overflow-hidden">
@@ -27,7 +26,9 @@ const { images } = Astro.props;
 					image.exif?.fNumber ? `f/${image.exif.fNumber}` : null,
 					image.exif?.shutterSpeed ? `1/${image.exif.shutterSpeed}s` : null,
 					image.exif?.iso ? `ISO ${image.exif.iso}` : null,
-				].filter(Boolean).join(' · ')}`}
+				]
+					.filter(Boolean)
+					.join(' · ')}`}
 			>
 				<Image
 					src={image.src}
