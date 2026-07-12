@@ -8,19 +8,19 @@ collections:
   - id: Travel
     name: Travel
 images:
-  - path: Travel/DSC03577.jpg
+  - path: Wildlife/DSC03776.jpg
     meta:
-      title: Idyll at the pool
+      title: Queen of Spain Fritillary resting in the heat
       description: ''
       collections:
-        - Travel
+        - Wildlife
     exif:
-      captureDate: 2026-06-02T18:56:09.000Z
+      captureDate: 2026-07-04T09:44:31.000Z
       fNumber: 8
       focalLength: 50
-      iso: 200
+      iso: 125
       model: ILCE-6700
-      shutterSpeed: 320
+      shutterSpeed: 250
       lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Travel/DSC03574.jpg
     meta:
@@ -134,20 +134,6 @@ images:
       model: ILCE-6700
       shutterSpeed: 80
       lensModel: 18-50mm F2.8 DC DN | Contemporary 021
-  - path: Street/DSC02467.jpg
-    meta:
-      title: Beautiful place in the mountains
-      description: ''
-      collections:
-        - Street
-    exif:
-      captureDate: 2026-05-23T16:19:42.000Z
-      fNumber: 7.1
-      focalLength: 26.3
-      iso: 1000
-      model: ILCE-6700
-      shutterSpeed: 5000
-      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Travel/DSC02467.jpg
     meta:
       title: Beautiful place in the mountains
@@ -178,7 +164,7 @@ images:
       lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Wildlife/DSC02089.jpg
     meta:
-      title: Dsc02089
+      title: Flamingo grooming its feathers
       description: ''
       collections:
         - Wildlife
@@ -206,7 +192,7 @@ images:
       lensModel: E 70-350mm F4.5-6.3 G OSS
   - path: Wildlife/DSC01880.jpg
     meta:
-      title: lynx waiting for the reintroduction
+      title: Lynx waiting for the reintroduction
       description: ''
       collections:
         - Wildlife
@@ -276,7 +262,7 @@ images:
       lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Landscape/DSC01032.jpg
     meta:
-      title: Burning Oil behind a forest in Hungary
+      title: Burning oil behind a forest in Hungary
       description: ''
       collections:
         - Landscape
@@ -304,7 +290,7 @@ images:
       lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Wildlife/DSC00792.jpg
     meta:
-      title: A Seagull Between Light and Shadow
+      title: A seagull between light and shadow
       description: ''
       collections:
         - Wildlife
@@ -358,20 +344,6 @@ images:
       model: ILCE-6700
       shutterSpeed: 400
       lensModel: 18-50mm F2.8 DC DN | Contemporary 021
-  - path: Travel/DSC00747.jpg
-    meta:
-      title: Oslo watchtower
-      description: ''
-      collections:
-        - Travel
-    exif:
-      captureDate: 2025-11-21T13:35:18.000Z
-      fNumber: 11
-      focalLength: 35.1
-      iso: 640
-      model: ILCE-6700
-      shutterSpeed: 400
-      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Street/DSC00736.jpg
     meta:
       title: I will be right back
@@ -402,7 +374,7 @@ images:
       lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Wildlife/DSC00163.jpg
     meta:
-      title: blackbird munching on crabapple
+      title: Blackbird munching on crabapple
       description: ''
       collections:
         - Wildlife
@@ -416,7 +388,7 @@ images:
       lensModel: E 70-350mm F4.5-6.3 G OSS
   - path: Wildlife/DSC00162.jpg
     meta:
-      title: blackbird snapping a crabapple
+      title: Blackbird snapping a crabapple
       description: ''
       collections:
         - Wildlife
@@ -556,7 +528,7 @@ images:
       lensModel: E 70-350mm F4.5-6.3 G OSS
   - path: Wildlife/DSC08047.jpg
     meta:
-      title: ladybug in summer morning
+      title: Ladybug in summer morning
       description: ''
       collections:
         - Wildlife
@@ -640,7 +612,7 @@ images:
       lensModel: E 70-350mm F4.5-6.3 G OSS
   - path: Travel/DSC06883.jpg
     meta:
-      title: Queen of the Skies
+      title: Queen of the skies
       description: ''
       collections:
         - Travel
@@ -710,7 +682,7 @@ images:
       lensModel: E 70-350mm F4.5-6.3 G OSS
   - path: Wildlife/DSC06501-Verbessert-RR.jpg
     meta:
-      title: canada goose, still on restless water
+      title: Canada goose, still on restless water
       description: ''
       collections:
         - Wildlife
@@ -724,7 +696,7 @@ images:
       lensModel: E 70-350mm F4.5-6.3 G OSS
   - path: Wildlife/DSC06297-Verbessert-RR.jpg
     meta:
-      title: squirrel interrupting the race to his friend
+      title: Squirrel interrupting the race to his friend
       description: ''
       collections:
         - Wildlife
