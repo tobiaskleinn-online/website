@@ -8,6 +8,20 @@ collections:
   - id: Travel
     name: Travel
 images:
+  - path: Landscape/DSC04316.jpg
+    meta:
+      title: Waterlilly, floating on the intersection of air and water
+      description: ''
+      collections:
+        - Landscape
+    exif:
+      captureDate: 2026-07-19T16:00:37.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 500
+      model: ILCE-6700
+      shutterSpeed: 50
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Wildlife/DSC03776.jpg
     meta:
       title: Queen of Spain Fritillary resting in the heat
