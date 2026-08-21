@@ -8,6 +8,76 @@ collections:
   - id: Travel
     name: Travel
 images:
+  - path: Street/DSC00415.jpg
+    meta:
+      title: Seagull jumping off the maccaron stand
+      description: ''
+      collections:
+        - Street
+    exif:
+      captureDate: 2026-08-18T18:35:06.000Z
+      fNumber: 4.5
+      focalLength: 33
+      iso: 1000
+      model: ILCE-6700
+      shutterSpeed: 1250
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Wildlife/DSC00398.jpg
+    meta:
+      title: Dsc00398
+      description: ''
+      collections:
+        - Wildlife
+    exif:
+      captureDate: 2026-08-18T18:29:54.000Z
+      fNumber: 4.5
+      focalLength: 50
+      iso: 1600
+      model: ILCE-6700
+      shutterSpeed: 1250
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Wildlife/DSC00395.jpg
+    meta:
+      title: Seagull gliding in the rain
+      description: ''
+      collections:
+        - Wildlife
+    exif:
+      captureDate: 2026-08-18T18:29:53.000Z
+      fNumber: 4.5
+      focalLength: 50
+      iso: 1600
+      model: ILCE-6700
+      shutterSpeed: 1250
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Wildlife/DSC00388.jpg
+    meta:
+      title: Ey, this is my territory
+      description: ''
+      collections:
+        - Wildlife
+    exif:
+      captureDate: 2026-08-18T18:29:37.000Z
+      fNumber: 4.5
+      focalLength: 50
+      iso: 1600
+      model: ILCE-6700
+      shutterSpeed: 1250
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Travel/DSC00368.jpg
+    meta:
+      title: Heading home after work, Oslo style
+      description: ''
+      collections:
+        - Travel
+    exif:
+      captureDate: 2026-08-18T18:28:20.000Z
+      fNumber: 8
+      focalLength: 50
+      iso: 400
+      model: ILCE-6700
+      shutterSpeed: 200
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Landscape/DSC04316.jpg
     meta:
       title: Waterlilly, floating on the intersection of air and water
