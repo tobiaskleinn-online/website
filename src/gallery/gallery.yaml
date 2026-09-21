@@ -5,9 +5,125 @@ collections:
     name: Street
   - id: Wildlife
     name: Wildlife
+  - id: Automotive
+    name: Automotive
   - id: Travel
     name: Travel
 images:
+  - path: Landscape/DSC01299.jpg
+    meta:
+      title: Starry night over Chianciano in Toscana
+      description: ''
+      collections:
+        - Landscape
+    exif:
+      captureDate: 2026-09-03T22:39:27.000Z
+      fNumber: 2.8
+      focalLength: 24.5
+      iso: 3200
+      model: ILCE-6700
+      shutterSpeed: 0.07692307692307693
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Landscape/DSC01267.jpg
+    meta:
+      title: A warriors homecoming
+      description: ''
+      collections:
+        - Landscape
+        - featured
+    exif:
+      captureDate: 2026-09-02T19:09:43.000Z
+      fNumber: 8
+      focalLength: 43.2
+      iso: 1600
+      model: ILCE-6700
+      shutterSpeed: 125
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Landscape/DSC01147.jpg
+    meta:
+      title: View of Montepulciano
+      description: ''
+      collections:
+        - Landscape
+    exif:
+      captureDate: 2026-09-02T11:58:40.000Z
+      fNumber: 7.1
+      focalLength: 46.9
+      iso: 125
+      model: ILCE-6700
+      shutterSpeed: 500
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Automotive/DSC00268.jpg
+    meta:
+      title: Ferrari 296 GTB Body in yellow on the road
+      description: ''
+      collections:
+        - Automotive
+        - featured
+    exif:
+      captureDate: 2026-08-27T14:16:28.000Z
+      fNumber: 6.3
+      focalLength: 121
+      iso: 1000
+      model: ILCE-6700
+      shutterSpeed: 640
+      lensModel: E 70-350mm F4.5-6.3 G OSS
+  - path: Automotive/DSC00235.jpg
+    meta:
+      title: 'Ferrari LMH 499P #51, Winner of 24h centenary '
+      description: ''
+      collections:
+        - Automotive
+    exif:
+      captureDate: 2026-08-27T13:40:12.000Z
+      fNumber: 2.8
+      focalLength: 18
+      iso: 400
+      model: ILCE-6700
+      shutterSpeed: 60
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Automotive/DSC00230.jpg
+    meta:
+      title: 'Ferrari LMH 499P #51, Winner of 24h centenary '
+      description: ''
+      collections:
+        - Automotive
+    exif:
+      captureDate: 2026-08-27T13:39:15.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 1250
+      model: ILCE-6700
+      shutterSpeed: 40
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Automotive/DSC00175.jpg
+    meta:
+      title: Fuelcap of Ferrari SC40
+      description: ''
+      collections:
+        - Automotive
+    exif:
+      captureDate: 2026-08-27T12:56:38.000Z
+      fNumber: 4.5
+      focalLength: 50
+      iso: 640
+      model: ILCE-6700
+      shutterSpeed: 40
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Automotive/DSC00119.jpg
+    meta:
+      title: Ferrari 275 GTB/4, GT Legend of 1966
+      description: ''
+      collections:
+        - Automotive
+    exif:
+      captureDate: 2026-08-27T12:35:35.000Z
+      fNumber: 3.5
+      focalLength: 18
+      iso: 3200
+      model: ILCE-6700
+      shutterSpeed: 125
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
   - path: Street/DSC00415.jpg
     meta:
       title: Seagull jumping off the maccaron stand
@@ -751,6 +867,20 @@ images:
       description: ''
       collections:
         - Street
+    exif:
+      captureDate: 2025-05-22T11:22:20.000Z
+      fNumber: 5
+      focalLength: 32.8
+      iso: 125
+      model: ILCE-6700
+      shutterSpeed: 60
+      lensModel: 18-50mm F2.8 DC DN | Contemporary 021
+  - path: Automotive/DSC06671.jpg
+    meta:
+      title: F8 Tributo Coupe
+      description: ''
+      collections:
+        - Automotive
     exif:
       captureDate: 2025-05-22T11:22:20.000Z
       fNumber: 5
